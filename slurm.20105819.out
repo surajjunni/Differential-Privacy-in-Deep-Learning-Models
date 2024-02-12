@@ -1,0 +1,14 @@
+/home/sjyothiu/.conda/envs/crisis/bin/python
+Train Epoch: 1 	Loss: 0.682839 (ε = 0.17, δ = 1e-05)
+Train Epoch: 2 	Loss: 0.685850 (ε = 0.23, δ = 1e-05)
+Train Epoch: 3 	Loss: 0.742707 (ε = 0.28, δ = 1e-05)
+Train Epoch: 4 	Loss: 0.748867 (ε = 0.32, δ = 1e-05)
+Train Epoch: 5 	Loss: 0.775393 (ε = 0.35, δ = 1e-05)
+Train Epoch: 6 	Loss: 0.797664 (ε = 0.39, δ = 1e-05)
+Train Epoch: 7 	Loss: 0.773701 (ε = 0.42, δ = 1e-05)
+Train Epoch: 8 	Loss: 0.787456 (ε = 0.45, δ = 1e-05)
+Train Epoch: 9 	Loss: 0.747981 (ε = 0.48, δ = 1e-05)
+Train Epoch: 10 	Loss: 0.748319 (ε = 0.50, δ = 1e-05)
+
+Test set: Average loss: 0.0007, Accuracy: 8946/10000 (89.46%)
+

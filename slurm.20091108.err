@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "/home/sjyothiu/opacus/sample2.py", line 12, in <module>
+    from opacus import PrivacyEngine
+  File "/home/sjyothiu/.conda/envs/crisis/lib/python3.9/site-packages/opacus/__init__.py", line 18, in <module>
+    from .privacy_engine import PrivacyEngine
+  File "/home/sjyothiu/.conda/envs/crisis/lib/python3.9/site-packages/opacus/privacy_engine.py", line 21, in <module>
+    from opacus.accountants import create_accountant
+  File "/home/sjyothiu/.conda/envs/crisis/lib/python3.9/site-packages/opacus/accountants/__init__.py", line 16, in <module>
+    from .gdp import GaussianAccountant
+  File "/home/sjyothiu/.conda/envs/crisis/lib/python3.9/site-packages/opacus/accountants/gdp.py", line 18, in <module>
+    from .analysis import gdp as privacy_analysis
+  File "/home/sjyothiu/.conda/envs/crisis/lib/python3.9/site-packages/opacus/accountants/analysis/gdp.py", line 24, in <module>
+    from scipy import optimize
+  File "/home/sjyothiu/.conda/envs/crisis/lib/python3.9/site-packages/scipy/optimize/__init__.py", line 400, in <module>
+    from .optimize import *
+  File "/home/sjyothiu/.conda/envs/crisis/lib/python3.9/site-packages/scipy/optimize/optimize.py", line 36, in <module>
+    from ._numdiff import approx_derivative
+  File "/home/sjyothiu/.conda/envs/crisis/lib/python3.9/site-packages/scipy/optimize/_numdiff.py", line 6, in <module>
+    from scipy.sparse.linalg import LinearOperator
+  File "/home/sjyothiu/.conda/envs/crisis/lib/python3.9/site-packages/scipy/sparse/__init__.py", line 228, in <module>
+    from .csr import *
+  File "/home/sjyothiu/.conda/envs/crisis/lib/python3.9/site-packages/scipy/sparse/csr.py", line 10, in <module>
+    from ._sparsetools import (csr_tocsc, csr_tobsr, csr_count_blocks,
+ImportError: /lib64/libstdc++.so.6: version `CXXABI_1.3.9' not found (required by /home/sjyothiu/.conda/envs/crisis/lib/python3.9/site-packages/scipy/sparse/_sparsetools.cpython-39-x86_64-linux-gnu.so)

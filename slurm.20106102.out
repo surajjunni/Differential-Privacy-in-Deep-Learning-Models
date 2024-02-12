@@ -1,0 +1,14 @@
+/home/sjyothiu/.conda/envs/crisis/bin/python
+Train Epoch: 1 	 Loss: 0.182662
+Train Epoch: 2 	 Loss: 0.075725
+Train Epoch: 3 	 Loss: 0.054004
+Train Epoch: 4 	 Loss: 0.041009
+Train Epoch: 5 	 Loss: 0.031662
+Train Epoch: 6 	 Loss: 0.024603
+Train Epoch: 7 	 Loss: 0.019089
+Train Epoch: 8 	 Loss: 0.014732
+Train Epoch: 9 	 Loss: 0.011219
+Train Epoch: 10 	 Loss: 0.008557
+
+Test set: Average loss: 0.0001, Accuracy: 9800/10000 (98.00%)
+

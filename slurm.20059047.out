@@ -1,0 +1,165 @@
+/home/sjyothiu/.conda/envs/crisis/bin/python
+Files already downloaded and verified
+Files already downloaded and verified
+Using sigma=1.0 and C=1.0
+Epoch: 1	Train set:Loss: 2.417574 Acc: 12.513351 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 2	Train set:Loss: 2.477798 Acc: 14.293793 
+Epoch: 3	Train set:Loss: 2.495365 Acc: 15.432016 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 4	Train set:Loss: 2.496965 Acc: 16.725672 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 5	Train set:Loss: 2.513577 Acc: 17.180366 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 6	Train set:Loss: 2.544329 Acc: 17.602734 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 7	Train set:Loss: 2.559423 Acc: 17.810466 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 8	Train set:Loss: 2.592007 Acc: 18.398606 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 9	Train set:Loss: 2.614156 Acc: 18.942526 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 10	Train set:Loss: 2.577507 Acc: 19.279366 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 11	Train set:Loss: 2.531729 Acc: 20.988905 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 12	Train set:Loss: 2.590635 Acc: 20.139997 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 13	Train set:Loss: 2.529228 Acc: 20.697710 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 14	Train set:Loss: 2.539546 Acc: 19.404091 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 15	Train set:Loss: 2.546643 Acc: 19.924967 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 16	Train set:Loss: 2.491642 Acc: 20.846264 
+Epoch: 17	Train set:Loss: 2.471003 Acc: 21.581444 
+Epoch: 18	Train set:Loss: 2.441858 Acc: 21.768732 
+Epoch: 19	Train set:Loss: 2.449305 Acc: 20.853370 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 20	Train set:Loss: 2.530413 Acc: 20.244450 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 21	Train set:Loss: 2.514262 Acc: 21.117408 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 22	Train set:Loss: 2.474665 Acc: 21.502505 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 23	Train set:Loss: 2.466637 Acc: 22.367715 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 24	Train set:Loss: 2.460520 Acc: 23.418934 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 25	Train set:Loss: 2.455334 Acc: 23.630088 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 26	Train set:Loss: 2.459127 Acc: 23.918576 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 27	Train set:Loss: 2.456136 Acc: 24.319272 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 28	Train set:Loss: 2.432912 Acc: 23.436187 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 29	Train set:Loss: 2.410957 Acc: 23.368596 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 30	Train set:Loss: 2.371291 Acc: 23.180969 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 31	Train set:Loss: 2.359445 Acc: 24.670474 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 32	Train set:Loss: 2.371995 Acc: 23.923836 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 33	Train set:Loss: 2.373138 Acc: 22.587014 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 34	Train set:Loss: 2.386030 Acc: 22.545748 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 35	Train set:Loss: 2.400071 Acc: 23.095170 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 36	Train set:Loss: 2.446665 Acc: 22.908486 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 37	Train set:Loss: 2.467597 Acc: 22.469876 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 38	Train set:Loss: 2.453325 Acc: 22.759830 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 39	Train set:Loss: 2.503134 Acc: 21.164723 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 40	Train set:Loss: 2.470724 Acc: 21.295373 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 41	Train set:Loss: 2.471514 Acc: 21.497961 
+Epoch: 42	Train set:Loss: 2.421580 Acc: 22.700857 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 43	Train set:Loss: 2.421801 Acc: 22.987189 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 44	Train set:Loss: 2.469463 Acc: 22.289638 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 45	Train set:Loss: 2.461202 Acc: 22.681821 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 46	Train set:Loss: 2.438402 Acc: 23.210451 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 47	Train set:Loss: 2.376339 Acc: 23.140566 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 48	Train set:Loss: 2.417243 Acc: 22.332737 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 49	Train set:Loss: 2.387728 Acc: 22.920557 
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+An error occurred during the training: Expected all tensors to be on the same device, but found at least two devices, cuda:0 and cpu! (when checking argument for argument mat2 in method wrapper_mm)
+Epoch: 50	Train set:Loss: 2.388272 Acc: 23.410284 
+	Test set:Loss: 2.382779 Acc: 23.980000 
+Load the dataset and tokenizer
+Move the model and optimizer to the device
+Define hyperparameters
+Convert examples to features

@@ -1,0 +1,25 @@
+/home/sjyothiu/.conda/envs/crisis/lib/python3.9/site-packages/torchvision/io/image.py:13: UserWarning: Failed to load image Python extension: /home/sjyothiu/.conda/envs/crisis/lib/python3.9/site-packages/torchvision/image.so: undefined symbol: _ZN2at4_ops19empty_memory_format4callEN3c108ArrayRefIlEENS2_8optionalINS2_10ScalarTypeEEENS5_INS2_6LayoutEEENS5_INS2_6DeviceEEENS5_IbEENS5_INS2_12MemoryFormatEEE
+  warn(f"Failed to load image Python extension: {e}")
+  0%|          | 0/9912422 [00:00<?, ?it/s] 38%|███▊      | 3768320/9912422 [00:00<00:00, 37666711.90it/s]100%|██████████| 9912422/9912422 [00:00<00:00, 76603648.99it/s]
+  0%|          | 0/28881 [00:00<?, ?it/s]100%|██████████| 28881/28881 [00:00<00:00, 3148671.60it/s]
+  0%|          | 0/1648877 [00:00<?, ?it/s]100%|██████████| 1648877/1648877 [00:00<00:00, 18703932.85it/s]
+  0%|          | 0/4542 [00:00<?, ?it/s]100%|██████████| 4542/4542 [00:00<00:00, 43895227.58it/s]
+/home/sjyothiu/.conda/envs/crisis/lib/python3.9/site-packages/opacus/privacy_engine.py:142: UserWarning: Secure RNG turned off. This is perfectly fine for experimentation as it allows for much faster training performance, but remember to turn it on and retrain one last time before production with ``secure_mode`` turned on.
+  warnings.warn(
+  0%|          | 0/92 [00:00<?, ?it/s]/home/sjyothiu/.conda/envs/crisis/lib/python3.9/site-packages/torch/nn/modules/module.py:1117: UserWarning: Using a non-full backward hook when the forward contains multiple autograd Nodes is deprecated and will be removed in future versions. This hook will be missing some grad_input. Please use register_full_backward_hook to get the documented behavior.
+  warnings.warn("Using a non-full backward hook when the forward contains multiple autograd Nodes "
+  0%|          | 0/92 [00:02<?, ?it/s]
+Traceback (most recent call last):
+  File "/home/sjyothiu/opacus/sample3.py", line 298, in <module>
+    errD.backward()
+  File "/home/sjyothiu/.conda/envs/crisis/lib/python3.9/site-packages/torch/_tensor.py", line 488, in backward
+    torch.autograd.backward(
+  File "/home/sjyothiu/.conda/envs/crisis/lib/python3.9/site-packages/torch/autograd/__init__.py", line 197, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+  File "/home/sjyothiu/.conda/envs/crisis/lib/python3.9/site-packages/torch/nn/modules/module.py", line 62, in __call__
+    return self.hook(module, *args, **kwargs)
+  File "/home/sjyothiu/.conda/envs/crisis/lib/python3.9/site-packages/opacus/grad_sample/grad_sample_module.py", line 337, in capture_backprops_hook
+    grad_samples = grad_sampler_fn(module, activations, backprops)
+  File "/home/sjyothiu/.conda/envs/crisis/lib/python3.9/site-packages/opacus/grad_sample/conv.py", line 103, in compute_conv_grad_sample
+    grad_sample = contract("ngrg...->ngr...", grad_sample).contiguous()
+torch.cuda.OutOfMemoryError: CUDA out of memory. Tried to allocate 1.81 GiB (GPU 0; 7.93 GiB total capacity; 4.58 GiB already allocated; 1.80 GiB free; 5.40 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
